@@ -12,8 +12,6 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "Row_No&Sequence_13",
-        "Dt1&Sequence_1",
         "Status&Sequence_11",
         "strURL&Sequence_2"
       ],
@@ -34,6 +32,8 @@
       "Path": "TestCase.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "StatusRowNo&Sequence_1",
+        "RowNo&Sequence_18",
         "RowNo&Sequence_16",
         "strTestCaseNumber&Sequence_1",
         "dtEmployeeData&Sequence_1",
